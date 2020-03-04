@@ -4,6 +4,21 @@ The ASP.Net core is cross platform open source framework to build modern cloud-b
 Microsoft has come up with the latest asp.net core framework to build
           1. Web Based Applications and Services, IOT Application and Mobile Backend Applications.
           2. Applcations that can targeted across different platforms such as Windows,Linux and macOS.
-          3. Applications that can be deployed to the Cloud and on-premises.
+          3. Applications that can be deployed to the Cloud and on-premises.      
+ 
+ ASP.NET CORE Features
+ 
+ The ASP.net core framework is more modular framework that are intended to provide below features.
+          1. To develop and run the applications that can run on Windows,Linux and macOS.
+          2. To build high performance modulare HTTP Pipeline to process the web requests/responses.
+          3. To host the applications on different hosting platforms such as
+                    - Kestrel
+                    - Nginx
+                    - IIS
+                    - Http.sys
+                    - Apache
+                    
+          4. 
+          
           
           
