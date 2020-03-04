@@ -21,6 +21,6 @@ Microsoft has come up with the latest asp.net core framework to build
                     
           4. Integrates with various client side frameworks such as AngularJS, React, Blazor and Bootstrap.
           5. An in-built dependency injection framework to use components and dependencies at runtime.
-          
+          6. A cloud-ready environment based configuration system.
           
           
